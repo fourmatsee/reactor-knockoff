@@ -85,7 +85,7 @@ var Game = function() {
 	this.upgrade_max_level = 32;
 	this.base_max_heat = 1000;
 	this.base_max_power = 100;
-	this.base_money = 1000000000;
+	this.base_money = 100;
 	this.save_interval = 60000;
 
 	// Current
